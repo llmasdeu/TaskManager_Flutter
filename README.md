@@ -1,2 +1,3 @@
 # TaskManagerFlutter
-Task manager app, coded with Flutter
+
+Task manager app, coded with Flutter.
